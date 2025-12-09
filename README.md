@@ -4,7 +4,7 @@
 This is a real-world style Packet Tracer project that demonstrates how to design, configure, and verify a resilient multi-branch enterprise network. It includes layer-3 switching, inter-VLAN routing, gateway redundancy with HSRP, OSPF routing, and a Site-to-Site IPsec VPN to a remote server branch. Everything is configured end-to-end and verified. Use this repo to learn, replicate, or audit a practical network build.
 
 ---
-
+![image](https://github.com/avadh-150/End-to-End-Enterprise-Network-Design-Implementation/blob/564a5da7dbcf9f5095969a62f5c245d1194772da/Screenshot%20from%202025-12-06%2021-50-16.png)
 ## Table of contents
 
 1. [What’s in this repo](#whats-in-this-repo)
